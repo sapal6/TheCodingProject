@@ -11,8 +11,8 @@ OS2 = 'android'
 
 # Compare OS
 
-#print(OS1 == OS2)  # returns a false as ios is not android
-#print(OS1 is not OS2)  # returns a true as ios is not android
+print(OS1 == OS2)  # returns a false as ios is not android
+print(OS1 is not OS2)  # returns a true as ios is not android
 
 
 # some more examples
