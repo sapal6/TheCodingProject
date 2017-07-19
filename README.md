@@ -8,9 +8,9 @@ Please feel free to download, share & improve upon the codes in the code files a
 Like my Facebook page an/or Comment & Subscribe to my Youtube channel.
 
 _______________________________________________________
-You can like TheCodingProject on Facebook - https://goo.gl/Z4sHLp
+* You can like TheCodingProject on Facebook - https://goo.gl/Z4sHLp
 
-Tweet TheCodingProject at this handle - https://twitter.com/TheCodingProjec
+* Tweet TheCodingProject at this handle - https://twitter.com/TheCodingProjec
 
-This tutorial is also available in my Blog - https://goo.gl/vIfKnY
+* This tutorial is also available in my Blog - https://goo.gl/vIfKnY
 _______________________________________________________
