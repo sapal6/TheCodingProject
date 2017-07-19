@@ -10,7 +10,7 @@ Like my Facebook page an/or Comment & Subscribe to my Youtube channel.
 _______________________________________________________
 You can like TheCodingProject on Facebook - https://goo.gl/Z4sHLp
 
-Tweet TheCodingProject at this handle - https://twitter.com/TheCodingProject
+Tweet TheCodingProject at this handle - https://twitter.com/TheCodingProjec
 
 This tutorial is also available in my Blog - https://goo.gl/vIfKnY
 _______________________________________________________
